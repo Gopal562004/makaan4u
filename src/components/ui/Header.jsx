@@ -172,7 +172,7 @@ const Header = ({ user = null, notificationCount = 0, onLogout, onSearch }) => {
                 <Home size={18} color="white" />
               </div>
               <span className="text-lg font-bold text-slate-900">
-                RealConnect
+                Makaan4U
               </span>
             </button>
           </div>
