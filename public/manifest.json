@@ -1,15 +1,25 @@
 {
-  "short_name": "alumni-management-platform",
-  "name": "alumni-management-platform",
+  "short_name": "Makaan4U",
+  "name": "Makaan4U - Real Estate Platform",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "src": "favicon.svg",
+      "sizes": "32x32",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "favicon.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
     }
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
+  "theme_color": "#2563eb",
   "background_color": "#ffffff"
 }
